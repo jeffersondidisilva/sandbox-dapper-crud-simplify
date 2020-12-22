@@ -1,8 +1,8 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 using Dapper.FluentMap.Dommel.Mapping;
-using Sandbox.CrudDapper.Models;
+using Sandbox.Dapper.Crud.Simplify.Models;
 
-namespace Sandbox.CrudDapper.Maps
+namespace Sandbox.Dapper.Crud.Simplify.Maps
 {
     public class CategoryMap: DommelEntityMap<Category>
     {

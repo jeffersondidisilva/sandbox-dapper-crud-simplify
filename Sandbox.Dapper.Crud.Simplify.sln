@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sandbox.CrudDapper", "Sandbox.CrudDapper\Sandbox.CrudDapper.csproj", "{E7617103-1B1F-4506-AAE8-E18841C98B52}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sandbox.Dapper.Crud.Simplify", "Sandbox.Dapper.Crud.Simplify\Sandbox.Dapper.Crud.Simplify.csproj", "{E7617103-1B1F-4506-AAE8-E18841C98B52}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

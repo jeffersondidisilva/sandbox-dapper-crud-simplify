@@ -1,10 +1,10 @@
 ﻿using Dapper.FluentMap;
 using Dapper.FluentMap.Dommel;
-using Sandbox.CrudDapper.Maps;
-using Sandbox.CrudDapper.Models;
-using Sandbox.CrudDapper.Repositories;
+using Sandbox.Dapper.Crud.Simplify.Maps;
+using Sandbox.Dapper.Crud.Simplify.Models;
+using Sandbox.Dapper.Crud.Simplify.Repositories;
 
-namespace Sandbox.CrudDapper
+namespace Sandbox.Dapper.Crud.Simplify
 {
     class Program
     {

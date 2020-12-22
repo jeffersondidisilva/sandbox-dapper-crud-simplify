@@ -4,10 +4,10 @@ using System.Data.SqlClient;
 using System.Linq;
 using System.Threading.Tasks;
 using Dapper;
-using Sandbox.CrudDapper.Models;
 using Sandbox.CrudDapper.Properties;
+using Sandbox.Dapper.Crud.Simplify.Models;
 
-namespace Sandbox.CrudDapper.Repositories
+namespace Sandbox.Dapper.Crud.Simplify.Repositories
 {
     public class CategoryRepository
     {
