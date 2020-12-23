@@ -12,7 +12,7 @@ namespace Sandbox.Dapper.Crud.Simplify
         {
             Start();
             
-            var repository = new CategorySimplifiedRepository();
+            var repository = new CategoryRepository();
             repository.SaveAsync(new Category { Name = "Cloud" } ).Wait();
         }
 

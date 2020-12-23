@@ -1,4 +1,4 @@
-﻿namespace Sandbox.CrudDapper.Properties
+﻿namespace Sandbox.Dapper.Crud.Simplify.Properties
 {
     public static class ConnectionString
     {
